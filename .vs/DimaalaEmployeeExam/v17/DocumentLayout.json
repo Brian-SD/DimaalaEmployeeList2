@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|c:\\users\\brian charles\\source\\repos\\dimaalaemployeeexam\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|solutionrelative:viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|c:\\users\\brian charles\\source\\repos\\dimaalaemployeeexam\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|c:\\users\\brian charles\\source\\repos\\dimaalaemployeeexam\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\scripts\\employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|solutionrelative:scripts\\employee.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\content\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BB3ADCE1-5B40-4A8B-95A3-5A5640ECFFEF}|DimaalaEmployeeExam.csproj|solutionrelative:content\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\ViewSwitcher.ascx",
+              "RelativeToolTip": "ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-06-30T15:14:32.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:14:20.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:15:41.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employee.js",
+              "DocumentMoniker": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Scripts\\employee.js",
+              "RelativeDocumentMoniker": "Scripts\\employee.js",
+              "ToolTip": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Scripts\\employee.js",
+              "RelativeToolTip": "Scripts\\employee.js",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-30T11:29:12.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.aspx",
+              "DocumentMoniker": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Content\\HomePage.aspx",
+              "RelativeDocumentMoniker": "Content\\HomePage.aspx",
+              "ToolTip": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Content\\HomePage.aspx",
+              "RelativeToolTip": "Content\\HomePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-30T11:26:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:24:36.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Brian Charles\\source\\repos\\DimaalaEmployeeExam\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:18:48.626Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
