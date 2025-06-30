@@ -63,9 +63,9 @@ DimaalaEmployeeExam/
 
 3. **Configure your database connection string in Web.config under:**
 
-<connectionStrings>
-  <add name="DefaultConnection" connectionString="Data Source=.;Initial Catalog=EmployeeList;Integrated Security=True" providerName="System.Data.SqlClient" />
-</connectionStrings>
+   <connectionStrings>
+     <add name="DefaultConnection" connectionString="Data Source=.;Initial Catalog=EmployeeList;Integrated Security=True" providerName="System.Data.SqlClient" />
+   </connectionStrings>
 
 4. **Create the SQL Database "EmployeeList" in SQL Server Management Studio (SSMS).**
 
